@@ -91,7 +91,7 @@ export class Post {
 
 let post = new Post();
 post.title = 'Hello'; // should not pass
-post.text = 'this is a great post about hell world'; // should not pass
+post.text = 'this is a great post about hello world'; // should not pass
 post.rating = 11; // should not pass
 post.email = 'google.com'; // should not pass
 post.site = 'googlecom'; // should not pass
